@@ -1,4 +1,5 @@
 {
+  "javascript.validate.enable": true,
   // prettier configuration
   "prettier.disableLanguages": [],
   "vetur.validation.template": false,
